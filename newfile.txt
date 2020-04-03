@@ -1,26 +1,26 @@
 WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 254-356-457
+INFO:werkzeug: * Debugger PIN: 151-410-987
 INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:24:55] "GET / HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:25:30] "GET / HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:25:39] "GET /bot?msg=train%20fare HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:26:03] "GET /bot?msg=bhopal%20pune%2011078 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:26:41] "GET /bot?msg=train%20fare HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:26:59] "GET /bot?msg=pune%20bhopal%2011078 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:27:09] "GET /train_time_table/11078/ HTTP/1.1" 404 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:27:21] "GET /bot?msg=traiin%20fare HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:27:34] "GET /bot?msg=bhopal%20pune%2011077 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:29:04] "GET / HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:29:15] "GET /bot?msg=train%20fare HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:29:29] "GET /bot?msg=bhopal%20pune%2011078 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:30:05] "GET /bot?msg=trains%20between%20bhopal%20and%20pune HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:30:06] "GET /img/load.gif HTTP/1.1" 404 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:30:30] "GET /bot?msg=train%20fare HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:31:05] "GET /bot?msg=pune%20bhopal%2011078 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:31:12] "GET /bot?msg=train%20fare HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:31:26] "GET /bot?msg=bhopal%20pune%2011078 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:33:48] "GET /bot?msg=train%20fare HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:34:01] "GET /bot?msg=pune%20bhopal%2011077 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 18:52:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 18:52:48] "[37mGET /bot?msg=train%20route HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 18:53:28] "[37mGET /bot?msg=12124 HTTP/1.1[0m" 200 -
+hange in 'C:\\Users\\Nipun Hedaoo\\indirailbot\\train_route.py', reloading
+[03/Apr/2020 18:45:56] "GET /bot?msg=train%20running%20status HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 18:45:56] "GET /bot?msg=train%20running%20status HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 18:48:14] "GET /bot?msg=12124 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Nipun Hedaoo\\indirailbot\\train_route.py', reloading
+nse from list of 378 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "4303664377"
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 18:40:21] "[37mGET /bot?msg=Hello HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 18:40:34] "[37mGET /bot?msg=train%20route HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 18:41:02] "[37mGET /bot?msg=12124 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 18:41:18] "[37mGET /bot?msg=train%20between%20stations HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 18:41:27] "[37mGET /bot?msg=bhopal%20pune HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 18:42:12] "[37mGET /bot?msg=train%20running%20status HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 18:42:33] "[37mGET /bot?msg=12124 HTTP/1.1[0m" 200 -
+[03/Apr/2020 00:34:01] "GET /bot?msg=pune%20bhopal%2011077 HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:34:52] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:35:05] "GET /bot?msg=train%20fare HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:35:18] "GET /bot?msg=bhopal%20pune%2011078 HTTP/1.1" 200 -

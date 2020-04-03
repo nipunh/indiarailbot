@@ -41,7 +41,6 @@ import json
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from datetime import datetime
-from geotext import GeoText
 import sqlite3
 #for pnr
 from pnr_scraping import pnr_enqiury 
@@ -545,4 +544,3 @@ stop_words = ['i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you'
 
 if __name__ == '__main__':
 	application.run(debug=True)
-JTTN
