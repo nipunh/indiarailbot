@@ -1,0 +1,681 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 254-356-457
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:24:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:25:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:25:39] "GET /bot?msg=train%20fare HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:26:03] "GET /bot?msg=bhopal%20pune%2011078 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:26:41] "GET /bot?msg=train%20fare HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:26:59] "GET /bot?msg=pune%20bhopal%2011078 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:27:09] "GET /train_time_table/11078/ HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:27:21] "GET /bot?msg=traiin%20fare HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:27:34] "GET /bot?msg=bhopal%20pune%2011077 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:29:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:29:15] "GET /bot?msg=train%20fare HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:29:29] "GET /bot?msg=bhopal%20pune%2011078 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:30:05] "GET /bot?msg=trains%20between%20bhopal%20and%20pune HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:30:06] "GET /img/load.gif HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:30:30] "GET /bot?msg=train%20fare HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:31:05] "GET /bot?msg=pune%20bhopal%2011078 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:31:12] "GET /bot?msg=train%20fare HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:31:26] "GET /bot?msg=bhopal%20pune%2011078 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:33:48] "GET /bot?msg=train%20fare HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:34:01] "GET /bot?msg=pune%20bhopal%2011077 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:34:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:35:05] "GET /bot?msg=train%20fare HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:35:18] "GET /bot?msg=bhopal%20pune%2011078 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:35:25] "GET /bot?msg=train%20fare HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:35:43] "GET /bot?msg=pune%20bhopal%2011078 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:36:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:36:49] "GET /bot?msg=train%20fare HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2020 00:37:10] "GET /bot?msg=pune%20dadar%2012124 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Nipun Hedaoo\\indirailbot\\platformEnq.py', reloading
+chatterbot:Selecting response from 15081 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 15081 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hello"
+INFO:chatterbot.chatterbot:BestMatch selected "Hello" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:22:05] "GET /bot?msg= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:22:45] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Selecting response from 15082 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 15082 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hello"
+INFO:chatterbot.chatterbot:BestMatch selected "Hello" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:22:47] "GET /bot?msg= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:23:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:23:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:23:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:23:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:23:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:24:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:25:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:25:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:25:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:26:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:26:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:27:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:27:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:28:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:28:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:30:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:31:19] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:Selecting response from 352 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 352 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:31:29] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:31:44] "GET /bot?msg=train%20route HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:32:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:37:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:37:39] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hi 1.0
+INFO:chatterbot.chatterbot:Using "Hi" as a close match to "Hi" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:Selecting response from 58 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 58 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you?"
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hi" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:38:10] "GET /bot?msg=Hi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:39:31] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:Selecting response from 356 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 356 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hi"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:39:43] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:40:41] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:Selecting response from 357 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 357 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:40:54] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:43:17] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:Selecting response from 178 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 178 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you?"
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:43:32] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:44:37] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:Selecting response from 179 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 179 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you?"
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:44:45] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hi 1.0
+INFO:chatterbot.chatterbot:Using "Hi" as a close match to "Hi" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you?"
+INFO:chatterbot.chatterbot:No responses found. Generating alternate response list.
+INFO:chatterbot.chatterbot:No known response to the input was found. Selecting a random response.
+INFO:chatterbot.chatterbot:BestMatch selected "Indian Railway Catering and Tourism Corporation is a subsidiary of the Indian Railways that handles the catering, tourism and online ticketing operations." as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "Hi" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:45:17] "GET /bot?msg=Hi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:48:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:49:16] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:Selecting response from 361 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 361 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hi"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:49:30] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:51:29] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:Selecting response from 362 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 362 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:51:46] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:52:28] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:Selecting response from 363 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 363 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:52:39] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:52:57] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:Selecting response from 181 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 181 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you?"
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:53:05] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:54:21] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:Selecting response from 182 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 182 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you?"
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:54:30] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:54:41] "GET /bot?msg=train%20route HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:55:10] "GET /bot?msg=12124 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:57:46] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:Selecting response from 183 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 183 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you?"
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:57:55] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:58:10] "GET /bot?msg=train%20route HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 15:58:52] "GET /bot?msg=12124 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 16:01:08] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you?"
+INFO:chatterbot.chatterbot:Selecting response from 246 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 246 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 16:01:18] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 16:01:24] "GET /bot?msg=train%20route HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 16:06:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 16:06:11] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 16:06:20] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you?"
+INFO:chatterbot.chatterbot:Selecting response from 247 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 247 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 16:06:30] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Tell me a joke 1.0
+INFO:chatterbot.chatterbot:Using "Tell me a joke" as a close match to "tell me a joke" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you?"
+INFO:chatterbot.chatterbot:Selecting response from 2784 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2784 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Did you hear the one about the mountain goats in the andes? It was "ba a a a a a d"."
+INFO:chatterbot.chatterbot:BestMatch selected "Did you hear the one about the mountain goats in the andes? It was "ba a a a a a d"." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "tell me a joke" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 16:07:25] "GET /bot?msg=tell%20me%20a%20joke HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 19:43:59] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:Selecting response from 370 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 370 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "tell me a joke"
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 19:44:18] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 19:44:43] "GET /bot?msg=please%20tell%20me%20train%20route HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 19:44:57] "GET /bot?msg=12124 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 19:45:35] "GET /bot?msg=find%20trains%20between%20lonaval%20and%20kalyan HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 19:45:35] "GET /img/load.gif HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2020 19:46:06] "GET /bot?msg=on%20which%20platform%2022686%20will%20stop%20in%20bhopal HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Nipun Hedaoo\\indirailbot\\application.py', reloading
+1.1" 200 -
+INFO:chatterbot.chatterbot:Selecting response from 2101 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2101 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hello"
+INFO:chatterbot.chatterbot:BestMatch selected "Hello" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 11:34:11] "GET /bot?msg= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 11:34:19] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "" as a close match to "" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:Selecting response from 2060 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2060 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Greetings!"
+INFO:chatterbot.chatterbot:BestMatch selected "Greetings!" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 11:34:34] "GET /bot?msg= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 11:34:44] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "" as a close match to "" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:Selecting response from 2061 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2061 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Greetings!"
+INFO:chatterbot.chatterbot:BestMatch selected "Greetings!" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "Greetings!"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 11:34:58] "GET /bot?msg= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 11:56:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 11:57:37] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Greetings!"
+INFO:chatterbot.chatterbot:Selecting response from 155 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 155 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Greetings!"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 11:57:42] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:02:21] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "" as a close match to "" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:Selecting response from 2062 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2062 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Greetings!"
+INFO:chatterbot.chatterbot:BestMatch selected "Greetings!" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:02:37] "GET /bot?msg= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:02:55] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "" as a close match to "" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Greetings!"
+INFO:chatterbot.chatterbot:Selecting response from 2083 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2083 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hello"
+INFO:chatterbot.chatterbot:BestMatch selected "Hello" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "Greetings!"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:03:10] "GET /bot?msg= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:03:23] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "" as a close match to "" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Greetings!"
+INFO:chatterbot.chatterbot:Selecting response from 2084 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2084 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hello"
+INFO:chatterbot.chatterbot:BestMatch selected "Hello" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:03:40] "GET /bot?msg= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:04:33] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "" as a close match to "" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:Selecting response from 2063 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2063 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Greetings!"
+INFO:chatterbot.chatterbot:BestMatch selected "Greetings!" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:04:48] "GET /bot?msg= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:04:59] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "" as a close match to "" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:Selecting response from 2064 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2064 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Greetings!"
+INFO:chatterbot.chatterbot:BestMatch selected "Greetings!" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "Greetings!"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:05:16] "GET /bot?msg= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:06:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:06:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:07:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:07:07] "GET /?msg= HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "" as a close match to "" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Greetings!"
+INFO:chatterbot.chatterbot:Selecting response from 2085 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2085 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hello"
+INFO:chatterbot.chatterbot:BestMatch selected "Hello" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "Greetings!"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:07:19] "GET /?msg= HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:07:19] "GET /bot?msg= HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:Selecting response from 112 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 112 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:07:20] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:07:38] "GET /?msg= HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "" as a close match to "" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:Selecting response from 2065 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2065 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Greetings!"
+INFO:chatterbot.chatterbot:BestMatch selected "Greetings!" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:07:53] "GET /bot?msg= HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Greetings!"
+INFO:chatterbot.chatterbot:Selecting response from 158 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 158 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Greetings!"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:07:58] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:10:34] "GET /?msg= HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "" as a close match to "" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:Selecting response from 2066 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2066 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Greetings!"
+INFO:chatterbot.chatterbot:BestMatch selected "Greetings!" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:10:49] "GET /bot?msg= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:10:53] "GET /?msg= HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "" as a close match to "" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:Selecting response from 2067 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2067 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Greetings!"
+INFO:chatterbot.chatterbot:BestMatch selected "Greetings!" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "Greetings!"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:11:09] "GET /bot?msg= HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "" as a close match to "" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Greetings!"
+INFO:chatterbot.chatterbot:Selecting response from 2086 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2086 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hello"
+INFO:chatterbot.chatterbot:BestMatch selected "Hello" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "" as a response to "Greetings!"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:11:34] "GET /bot?msg= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:14:37] "GET /?msg= HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "Greetings!"
+INFO:chatterbot.chatterbot:Selecting response from 159 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 159 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:20:20] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Tell me a joke 1.0
+INFO:chatterbot.chatterbot:Using "Tell me a joke" as a close match to "tell me a joke" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:Selecting response from 385 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 385 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Did you hear the one about the mountain goats in the andes? It was "ba a a a a a d"."
+INFO:chatterbot.chatterbot:BestMatch selected "Did you hear the one about the mountain goats in the andes? It was "ba a a a a a d"." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "tell me a joke" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:27:04] "GET /bot?msg=tell%20me%20a%20joke HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:28:11] "GET /?msg= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:28:26] "GET /?msg= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:28:50] "GET /?msg= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:29:54] "GET /?msg= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:30:14] "GET /?msg= HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of ""
+INFO:chatterbot.chatterbot:Selecting response from 162 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 162 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "hello" as a response to "tell me a joke"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 12:43:00] "GET /bot?msg=hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 13:08:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 13:08:46] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 173 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 173 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "hello"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 13:09:04] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 15:13:23] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:Selecting response from 67 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 67 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you?"
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 15:13:29] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 15:14:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 15:16:20] "GET /bot?msg=train%20route HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 15:16:31] "GET /bot?msg=1212 HTTP/1.1" 500 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "12124" as a close match to "12124" with a confidence of 0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:Selecting response from 2068 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 2068 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Greetings!"
+INFO:chatterbot.chatterbot:BestMatch selected "Greetings!" as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Adding "12124" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 15:17:00] "GET /bot?msg=12124 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 15:17:07] "GET /bot?msg=train%20route HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 15:17:17] "GET /bot?msg=12124 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2020 15:19:18] "GET / HTTP/1.1" 200 -
+" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2020 19:41:04] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2020 19:43:29] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you?"
+INFO:chatterbot.chatterbot:Selecting response from 56 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 56 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2020 19:43:35] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2020 19:45:28] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you?"
+INFO:chatterbot.chatterbot:Selecting response from 57 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 57 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2020 19:45:35] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2020 19:46:12] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:Selecting response from 45 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 45 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you?"
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2020 19:46:17] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2020 19:46:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2020 23:10:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2020 23:10:47] "GET /static/newscript.js HTTP/1.1" 304 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you?"
+INFO:chatterbot.chatterbot:Selecting response from 58 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 58 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you? Type options to know more." as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2020 23:10:56] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2020 23:11:18] "GET / HTTP/1.1" 200 -
+INFO:chatterbot.chatterbot:Beginning search for close text match
+WARNING:chatterbot.chatterbot:No value for search_text was available on the provided input
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Hello 1.0
+INFO:chatterbot.chatterbot:Using "Hello" as a close match to "Hello" with a confidence of 1.0
+INFO:chatterbot.chatterbot:0. Excluding recent repeated response of "Hello"
+INFO:chatterbot.chatterbot:1. Excluding recent repeated response of "I'm IndiRailBot, How can I help you? Type options to know more."
+INFO:chatterbot.chatterbot:Selecting response from 46 optimal responses.
+INFO:chatterbot.response_selection:Selecting first response from list of 46 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm IndiRailBot, How can I help you?"
+INFO:chatterbot.chatterbot:BestMatch selected "I'm IndiRailBot, How can I help you?" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Adding "Hello" as a response to "Hello"
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2020 23:11:21] "GET /bot?msg=Hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2020 12:02:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2020 12:02:07] "GET /static/newscript.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2020 12:02:07] "GET /static/stylescript.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2020 12:03:39] "GET / HTTP/1.1" 200 -

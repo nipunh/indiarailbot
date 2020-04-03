@@ -1,0 +1,1517 @@
+hello
+train route
+22686
+hi
+train route
+22686
+how are you?
+train between stations
+train between stations
+running status 22686
+BPL
+running status 22686
+running status 22686
+BPL
+running status 22686
+BPL
+running status 22686
+running status 11077
+BPL
+running status 11077
+BPL
+running status 11077
+train between station
+train between stations
+train between stations
+train between stations
+train between stations
+train between stations
+bhopal pune
+train between stations
+bhopal pune
+train between stations
+bhopal pune
+train between stations
+bhopal to pune
+train between station
+bhopal to pune
+train between stations
+bhopal pune
+train between stations
+bhopal to pune
+train running station
+train running status
+bhopal 22686
+train running status
+bhopal 22686
+train running status
+22686 bhopal
+Hello
+Hello
+Options
+train route
+11077
+Hello
+train route
+11077
+Hi
+train route
+11077
+thanks
+train running status
+22686 bhopal
+train between stations
+mumbai to pune
+train between stations
+train between station
+kalyan to pune
+hello
+train between pune and chandigarh
+train between pune and bhopal
+11077
+mumbai to pune
+mumbai to pune
+mumbai to pune
+mumbai to pune
+mumbai to pune 
+trains from mumbai to pune
+bhopal pune
+trains from mumbai to pune
+trains from mumbai to pune
+trains from bhopal to pune
+trains from mumbai to pune
+trains from bhopal to pune
+bhopal to pune
+trains from bhopal to pune
+options
+trains from mumbai to pune
+trains from mumbai to pune
+trains from mumbai to pune
+trains from mumbai to pune
+trains from mumbai to pune
+bhopal to pune
+trains from bhopal to mumbai
+trains from mumbai to pune
+trains from mumbai to pune
+thnaks
+mumbai to pune
+Query Executed Successfully
+train running status
+22686 BPL
+train running status
+22686 bhopal
+train running status
+11077
+bhopal
+train running status
+bhopal 11077
+train route 22686
+Hello
+Query Executed Successfully
+train route 22686
+Query Executed Successfully
+train between stations
+bhopal to mumbai
+Query Executed Successfully
+Hi
+tell me a joke
+tell me another joke
+what is a super computer?
+Options
+train route
+22686
+Hello
+Options
+train route
+22686
+Query Executed Successfully
+tell me a joke
+nice
+hi
+train between mumbai and lonavala
+22105
+Query Executed Successfully
+train between mumbai and pune
+train between mumbai and pune
+Query Executed Successfully
+pune to lonavala
+Query Executed Successfully
+live tracking
+lonavala 22105
+thanks
+train live tracking
+pune 11077
+Hello
+tell me about computer
+who made you?
+hello
+what is computer>
+what is a computer?
+I don't know.
+hello
+Hello
+Hello
+Hello
+Hi
+Hello
+Hi
+Hello
+Hello
+Hello
+Hello
+Hi
+Hello
+Hi
+train running status
+22105 lonavala
+hi
+Options
+train route
+22105
+Query Executed Successfully
+please tell me train route of my train
+can you help me in findin trains to destination
+find train after 4 hours
+finc train after 4 hours
+find train after 2 hours
+find train after 5 hours
+train after 4 hours
+Bhopal
+train within 2 hours
+pune
+train between 3 hour
+pune
+train after 2 hours
+pune
+train after 3 hours
+pune
+train after 2 hours
+pune
+please tell me route of a train
+22686
+Query Executed Successfully
+train after 2 hours
+pune
+train after 3 hours
+bhopal
+train in next 3 hours
+train in next 3 hours
+bhopal
+train after 3 hour
+bhopal
+train after 3 hours
+bhopal
+train after 4 hours
+pune
+train after 3 hours
+bhopal
+train after 3 hours
+bhopal
+train after 3 hours
+bhopal
+train adter 3 hours
+bhopal
+traina after three hours
+train within 3 hours
+bhopal
+please find me train after 2 hours
+bhopal
+please find me trains after 4 hours
+pune
+can you find train after 3 hours
+please find me train after 3 hours
+can you find me train after 1 hour
+please find me train after 3 hours
+please find me train within 2 hours
+find me train after 2 hours
+can you please shoe train after 3 hours
+bhopal
+can you find me train after 4 hours from bhopal
+bhopal
+can you find me train after 2 hours
+pune
+train within 2 hours
+pune
+train after 6 hours
+pune
+can you tell me route of a train
+11077
+Query Executed Successfully
+please find me train from mumbai to pune
+Query Executed Successfully
+pnr status 4515709341
+pnr status 4515709341
+pnr status 4515709341
+4515709341'
+pnr status 4515709341
+pnr status 4515709341
+pnr status 4515709341
+Query Executed Successfully
+pnr status 4515709341
+Query Executed Successfully
+pnr status 4515709341
+Query Executed Successfully
+pnr status 4515709341
+Query Executed Successfully
+pnr status 4515709341
+pnr status 4515709341
+pnr status 4515709341
+pnr status 4515709341
+pnr status 4515709341
+pnr status 4515709341
+pnr status 4515709341
+pnr status 4515709341
+pnr status 4515709341
+pnr status 4515709341
+pnr status 4515709341
+pnr status
+pnr status 4515709341
+pnr status
+pnr status
+pnr status
+4515709341
+pnr
+4515709341
+pnr status 4515709341
+train running status
+train running status
+22686 bhopal
+train route 
+22686
+Query Executed Successfully
+train between station
+bhopal pune
+Query Executed Successfully
+Hello
+Hello
+hello
+pnr status 4515709341
+Query Executed Successfully
+please tell me pnr status 8130426803
+Query Executed Successfully
+Hello
+can you tell me pnr status
+4515709341
+please find pnr status
+4515709341
+tell me pnr status
+4515709341
+please find pnr details
+4515709341
+Hello
+please tell me train route
+11077
+Query Executed Successfully
+can you tell me pnr status
+4515709341
+pnr number
+4515709341
+pnr details pnr_number
+hello
+Hello
+How are you?
+IRCTC
+Hello
+please tell me waiting status of my ticket
+2408335654
+find the running status
+please track my train
+22686 bhopal
+11077 bhopal
+train live status
+bhopal 11077
+Query Executed Successfully
+please track my train
+11077 bhopal
+Query Executed Successfully
+can you find current position of my train
+bhoapl 11077
+Query Executed Successfully
+train running status
+bhopal 11077
+Query Executed Successfully
+please find position of my train
+bhopal 11077
+Query Executed Successfully
+show all the train after 2 hours
+bhopal
+Query Executed Successfully
+please show me trains after 3 hours
+bhopal
+Query Executed Successfully
+can you find train within next 3 hours
+pune
+Query Executed Successfully
+find me train after 1 hour
+Query Executed Successfullyfind train after 4 hours
+habibganj
+find train after 4 hours
+bhopal
+train running status
+12104 bhopal
+Query Executed Successfully
+can you find current position of my train
+12104 bina
+Hello
+hello
+find train after 3 hours from pune
+Query Executed Successfully
+find train after 2 hours from oune station
+Query Executed Successfully
+find train after 3 hours from pune
+Query Executed Successfully
+please show me train after 4 hours
+pune
+Query Executed Successfully
+find trains after 4 hours
+pune
+Query Executed Successfully
+find train after 3 hours
+mumbai
+Query Executed Successfully
+trains after 5 hours
+bhopal
+Query Executed Successfully
+train after 2 hours
+bhopal
+Query Executed Successfully
+train after 3 hours
+bhopal
+Query Executed Successfully
+train after 5 hours
+bhopal
+Query Executed Successfully
+hello
+please tell me route of my train
+Status:Query Not executed Successfully
+hello how can I help you
+find change from Mumbai to Pune
+Mumbai to Pune
+Mumbai Pune
+train from mumbai to pune
+find train between stations
+mumbai and pune
+train route
+please tell me train route
+22686
+can you find route of my train
+22686
+Status:Query Not executed Successfully
+find route of my train
+22686
+Query Executed Successfully
+find train route
+11077
+find route of my train
+11077
+Query Executed Successfully
+can you please tell waiting list of my ticket
+2637529845
+please tell me location of my train
+11077
+find current location of my train
+11077
+bhopal
+find current position of my train
+bhopal 11077
+pnr status
+8804551109
+pnr status
+8804 551 109
+pnr status
+8804551109
+pnr status
+8804551109
+pnr status
+8804551109
+pnr status
+8804551109
+find current location of my train
+Hello
+find current position of my train
+find position of my train
+hello
+find curent position of my train
+find current position of my train
+train route
+11077
+Query Executed Successfully
+find train route
+11077
+Query Executed Successfully
+find route of my train
+11077
+Query Executed Successfully
+find live position of train
+11077
+find live position of train
+bhopal 11077
+Query Executed Successfully
+train running status
+pune 11010
+Query Executed Successfully
+train running status
+pune 51028
+Query Executed Successfully
+train running status 12128
+Query Executed Successfully
+train running status
+22686 Bhopal
+train running status
+bhopal 22686
+Query Executed Successfully
+pnr status
+8804551109
+pnr status
+8804551109
+can you find where my train stops
+bhopal 22686
+Query Executed Successfully
+train stops
+11077
+Query Executed Successfully
+train running status
+bhopal 11077
+Query Executed Successfully
+train between stations
+pune bhopal
+Query Executed Successfully
+train between stations
+pune bhopal
+Query Executed Successfully
+train between stations
+kalyan bhopal
+train between stations
+kalyan pune
+Query Executed Successfully
+train between stations
+bhopal indore
+Query Executed Successfully
+train between stations
+kalyan pune
+train between stations
+kalyan pune
+train between stations
+bhopal kalyan
+train between stations
+bhopal kalyan
+train between stations
+bhopal mumbai
+train between stations
+bhopal kalyan
+train between station
+bhopal indore
+Query Executed Successfully
+train between stations
+pune kalyan
+train between stations
+bhopal kalyan
+train between stations
+indore bhopal
+train between station
+bhopal indore
+train between stations
+bhopal indore
+Query Executed Successfully
+train between stations
+pune kalyan
+Query Executed Successfully
+train between station
+dadar lonavala
+Query Executed Successfully
+pnr status
+8804551109
+train route
+22686
+Query Executed Successfully
+train running status
+kalyan 12124
+Query Executed Successfully
+Hello
+Hello
+Hello
+
+Hello
+Options
+pnr status
+Hello
+Hello
+train between stations
+pune kalyan
+Query Executed Successfully
+can you please check waiting list
+8804551109
+thanks
+what is the current status of my ticket
+8804551109
+hello
+
+hello  find route of my train
+11077
+Query Executed Successfully
+hello
+find current location of my train
+12124
+train ruuning status
+kalyan 12124
+Query Executed Successfully
+current position of my train
+dadar 12124
+Query Executed Successfully
+hello
+hello
+find position of my train
+kalyan 12124
+Query Executed Successfully
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+Hello
+Hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello  find location of my train
+12124
+hello
+
+
+hello
+hello
+
+
+hello
+hello
+ hello
+hello
+ hello
+hello
+hello
+
+
+
+hello
+hello
+Hello
+hello
+hello
+
+
+hello
+hello
+hello
+PNR status of my train
+hello
+hello
+hello
+PNR status
+1234567890
+Query Executed Successfully
+running status of my train
+Pune 22686
+please tell me the running status of my train
+Pune 22686
+what is current position of my train
+Pune 22686
+what is current location of my train
+22686 Pune
+Pune 22686
+Pune 22686
+running status
+Bhopal 22686
+running status
+22686
+running status
+22686 Pune
+running status
+Bhopal 22686
+running status
+22686
+running status
+Pune 22686
+running status
+Pune 22686
+train running status
+22686 Pune
+running status
+Pune 22686
+running status of my train
+22686
+running status of my train
+22686
+Query Executed Successfully
+my train route
+12124
+Query Executed Successfully
+waiting status of my train
+ 8804 551 109
+Query Executed Successfully
+PNR status of my 
+8804551109
+Query Executed Successfully
+find a train for me
+train between stations
+train between stations
+Bhopal Pune
+train between stations
+Bhopal to Pune
+train between stations
+Bhopal and Pune
+train between stations
+Bhopal and Pune
+train between station
+Bhopal and Pune
+train between stations
+Bhopal to Pune
+train between stations
+Bhopal to Pune
+train between stations
+Pune to Bhopal
+train between stations
+Bhopal to Pune
+train between Bhopal and Pune
+Bhopal and Pune
+train between stations
+Bhopal Pune
+Query Executed Successfully
+train between station
+Bhopal and Pune
+train between station
+Pune and Bhopal
+Query Executed Successfully
+train between station
+Bhopal and Pune
+Query Executed Successfully
+train between station
+Pune and Bhopal
+Query Executed Successfully
+train between stations
+Bhopal and Pune
+Query Executed Successfully
+train between stations
+Bhopal to Pune
+train between Bhopal and Pune
+Query Executed Successfully
+train running status
+Bhopal 22686
+Query Executed Successfully
+train running status
+Bhopal 22686
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 22686
+Query Executed Successfully
+train running status 12124
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+
+train running status 12124
+train running status 12124
+Query Executed Successfully
+train running status 11077
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train route 22686
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+Hello
+Hi
+Hello
+Hi
+Hello
+Hello
+Hello
+Hello
+Hi
+Hey
+hello
+Hello
+Hello
+Hello
+Hi
+Hey
+train running status
+22686
+Query Executed Successfully
+train running status
+22686
+Query Executed Successfully
+train running status
+22686
+Query Executed Successfully
+Hello
+Hello
+Hello
+Hello
+Hello
+Hello
+Hello
+Hello
+
+train route
+22686
+Query Executed Successfully
+Hello
+Train route
+22686
+Query Executed Successfully
+Hello
+Hello
+Train route
+22686
+Query Executed Successfully
+Hello
+train route
+22686
+Query Executed Successfully
+Hello
+Hello
+hello
+Hello
+hi
+hello
+Hello
+hi
+Hello
+hello
+Hello
+hello
+HEllo
+Hello
+train route
+22686
+Query Executed Successfully
+Hello
+Hello
+Hello
+Hello
+Hello
+Hello
+Train route
+22686
+Query Executed Successfully
+Hello
+Hello
+Hello
+Hello
+Hello
+Hello
+train route
+22686
+Query Executed Successfully
+Hello
+train route
+22686
+Query Executed Successfully
+Hello
+Hello
+Hello
+Hello
+Hello
+Hello
+Hello
+Train route
+12124
+Query Executed Successfully
+Hello
+train route
+12124
+Query Executed Successfully
+Hello
+Hello
+Hello
+train route
+12124
+Query Executed Successfully
+Hello
+tell me a joke
+Hello
+
+Hello
+
+
+
+
+
+Hello
+
+
+
+
+
+
+Hello
+
+Hello
+
+
+
+Hello
+tell me a joke
+hello
+Hello
+Hello
+train route
+1212
+12124
+train route
+12124
+Query Executed Successfully
+train route
+12124
+Query Executed Successfully
+train route
+12124
+Query Executed Successfully
+train route
+12124
+Query Executed Successfully
+train route
+22686
+Query Executed Successfully
+train route
+12124
+Query Executed Successfully
+train route
+12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+
+train route 12124
+Query Executed Successfully
+train route 22686
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train route 22686
+Query Executed Successfully
+train route 22686
+Query Executed Successfully
+train route 12124
+Query Executed Successfully
+train between bhopal and pune
+Query Executed Successfully
+train between bhopal and indore
+Query Executed Successfully
+train betwwen bhopal and pune
+train between stations
+bhopal and pune
+Query Executed Successfully
+running status
+dadar 12124
+Query Executed Successfully
+train running status
+dadar 12124
+Query Executed Successfully
+train ruuning status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+running status 12124
+Query Executed Successfully
+running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+train running status 12124
+var obj = JSON.parse(
+train running status 22686
+Query Executed Successfully
+train running status 22686
+Query Executed Successfully
+train running status 22686
+Query Executed Successfully
+train running status 22686
+Query Executed Successfully
+train running status 22686
+Query Executed Successfully
+train running status 22686
+train running status 22686
+train running status 22686
+Query Executed Successfully
+train running status 22686
+Query Executed Successfully
+train running status 22686
+Query Executed Successfully
+train running status 22686
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 22686
+Query Executed Successfully
+train running status 22686
+Query Executed Successfully
+// var trainDetails = html["trainDetails"]
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+train running status 12124
+train running status 12124
+train running status 12124
+train running status 12124
+Query Executed Successfully
+train running status 12124
+train running status 12124
+train running status 12124
+Query Executed Successfully
+12124 running status
+Query Executed Successfully
+12124 running status
+Query Executed Successfully
+12124 running status
+Query Executed Successfully
+current location of 12124
+Query Executed Successfully
+current location 12124
+Query Executed Successfully
+live running status of 12124
+Query Executed Successfully
+train running status 12124
+Query Executed Successfully
+Hello
+Hello
+Hello
+HEllo
+Hello
+Hello
+Hello
+Hi
+Hello
+Hi
+Hello
+Hello
+Hello
+12124 running status
+Query Executed Successfully
+train between stations
+pune bhopal
+Query Executed Successfully
+hey
+train running status
+Train route
+12124
+Query Executed Successfully
+train between bhopal and pune
+Query Executed Successfully
+Train running status
+12124 bhopal
+Query Executed Successfully
+hello
+Hi
+Hi
+Hello
+Hello
+tell me a joke
+Hello
+train route
+train route
+22686
+Query Executed Successfully
+Hello
+Hello
+train route
+22686
+Query Executed Successfully
+Hello
+Hello
+train route 12124
+Query Executed Successfully
+train between pune and mumbai
+Query Executed Successfully
+train running status 22686 
+Query Executed Successfully
+pnr status
+4303664377
+Query Executed Successfully
+is my seat confirmed for pnr 4303664377
+Query Executed Successfully
+platform number
+platform number
+pune 11077
+on which platform my train will arrive
+pune 11077
+platform enquiry
+1234567890
+Query Executed Successfully
+platform number
+pune 11077
+platform number
+11077 pune
+platformnumber
+Platform number
+pune 11077
+on which platform will my train arrive
+pune 11077
+platform number
+pune 11077
+Query Executed Successfully
+platform number
+11077 pune
+Query Executed Successfully
+platform number
+bhopal 11077
+Query Executed Successfully
+platform number 
+pune 11077
+Query Executed Successfully
+train fare enquiry
+pune to bhopal 11077
+Query Executed Successfully
+train fare 
+train fare
+Pune to bhopal 11077
+Query Executed Successfully
+train fare
+Pune to bhopal 11077
+Query Executed Successfully
+train fare
+pune bhopal 11077
+Query Executed Successfully
+train afre
+train fare
+Pune to bhopal 11077
+Query Executed Successfully
+train fare
+Pune to bhopal 11077
+Query Executed Successfully
+train fare
+Pune to bhopal 11077
+Query Executed Successfully
+train fare
+pune to bhopal 11077
+Query Executed Successfully
+train fare
+pune to bhopal 11077
+Query Executed Successfully
+train fare
+pune to bhopal 11077
+Query Executed Successfully
+train fare
+
+pune to bhopal 11077
+train fare
+pune to bhopal 11077
+Query Executed Successfully
+train fare bhpune to bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune to bhopal 11077
+train fare pune bhopal 11077
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare punr bhopal 11077
+pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare pune bhopal 11077
+Query Executed Successfully
+train fare 11077 pune bhopal
+Query Executed Successfully
+
+
+
+hello
+train running status
+12124 bhopal
+train route
+12124
+Query Executed Successfully
+train running status
+Bhopal 22686
+train running status
+11077
+train running status
+11077
+Query Executed Successfully
+train running status
+11077
+Query Executed Successfully
+train running status 11077
+train running status 11077
+Query Executed Successfully
+fare enquiry
+train fare
+pune bhopal 11077
+Query Executed Successfully
+platform 
+bhopal 11077
+Query Executed Successfully
+
+Hello
+
+Hello
+train route
+Hello
+Hi
+Hello
+Hello
+Hello
+Hello
+Hi
+Hello
+Hello
+Hello
+Hello
+Hello
+train route
+12124
+Hello
+train route
+12124
+Hello
+train route
+Hello
+Hello
+tell me a joke
+Hello
+please tell me train route
+12124
+Query Executed Successfully
+find trains between lonaval and kalyan
+Query Executed Successfully
+on which platform 22686 will stop in bhopal
+Query Executed Successfully
+platform number
+Bhopal 22686
+Query Executed Successfully
+find cost of travelling
+Pune bhopal 11077
+Query Executed Successfully
+train running status
+Bhopal 22686
+Query Executed Successfully
+train running status
+11077 pune
+Query Executed Successfully
+trains between bhopal and indore
+Query Executed Successfully
+trains to indore from bhopal
+trains to indore from bhopal
+trains to indore from bhopal
+trains to indore from bhopal
+Train to indore from bhopal
+Train to indore from bhopal
+trains to bhopal from indore
+trains from bhopal to pune
+Query Executed Successfully
+trains from bhopal to indore
+trains from bhopal to indore
+Query Executed Successfully
+trains between bhopal and pune
+Query Executed Successfully
+trains between bhopal
+pune
+Bhopal pune
+running status of my train
+Bhopal 11077
+Query Executed Successfully
+Running status of my train
+22686
+Query Executed Successfully
+train fare
+pune bhopal 11077
+Query Executed Successfully
+train fare details
+11077 pune bhopal
+Query Executed Successfully
+train fare
+pune bhopal 11077
+Query Executed Successfully
+train fare
+11077 bhopal pune
+Query Executed Successfully
+train fare
+bhopal pune 11077
+Query Executed Successfully
+train fare
+bhopal pune 11077
+Query Executed Successfully
+train fare
+pune bhopal 11077
+Query Executed Successfully
+train fare
+bhopal pune 11077
+Query Executed Successfully
+train fare
+pune bhopal 11077
+Query Executed Successfully
+train fare
+pune bhopal 11077
+Query Executed Successfully
+train route
+11077
+Query Executed Successfully
+train between bhopal and pune
+Query Executed Successfully
+trains between pune and bhopal
+Query Executed Successfully
+trains between pune and bhopal
+Query Executed Successfully
+trains between pune and bhopal
+Query Executed Successfully
+trains between pune and bhopal
+Query Executed Successfully
+trains between bhopal and pune
+Query Executed Successfully
+trains between bhopal and pune
+Query Executed Successfully
+trains between bhopal and pune
+Query Executed Successfully
+trains between bhopal and pune
+Query Executed Successfully
+trains between bhopal and pune
+Query Executed Successfully
+trains between bhopal and pune
+Query Executed Successfully
+trains between bhopal and pune
+Query Executed Successfully
+trains between bhopal and pune
+Query Executed Successfully
+trains between bhopal and pune
+Query Executed Successfully
+trains between bhopal and pune
+trains between bhopal and pune 11077
+trains between bhopal and pune 11077
+Query Executed Successfully
+trains between bhopal and pune
+Query Executed Successfully
+trains between bhopal and pune
+Query Executed Successfully
+trains between bhopal and pune
+Query Executed Successfully
+trains between bhopal and pune
+Query Executed Successfully
+train between pune and mumbai
+Query Executed Successfully
+train between pune and mumbai
+Query Executed Successfully
+train between pune and mumbai
+Query Executed Successfully
+train between pune and mumbai
+Query Executed Successfully
+train between pune and mumbai
+Query Executed Successfully
+train between pune and mumbai
+Query Executed Successfully
+train between pune and mumbai
+Query Executed Successfully
+train between pune and mumbai
+Query Executed Successfully
+train fare
+bhopal pune 11077
+Query Executed Successfully
+train fare
+bhopal pune 11078
+Query Executed Successfully
+train fare
+bhopal pune 11077
+Query Executed Successfully
+train between pune and mumbai
+Query Executed Successfully
+train fare 
+pune bhopal 11077
+Query Executed Successfully
+fare enquiry
+train fare
+pune bhopal 11077
+Query Executed Successfully
+train route
+11077
+Query Executed Successfully
+train running status
+12124
+Query Executed Successfully
+pnr status
+4303664377
+Query Executed Successfully
+pnr status
+4303664377
+Query Executed Successfully
+pnr status
+4303664377
+pnr status
+4303664377
+pnr status
+4303664377
+pnr status
+4303664377
+4303664377
+pnr status
+4303664377
+Query Executed Successfully
+train fare
+bhopal pune 11078
+Query Executed Successfully
+train fare
+bhopal pune 11078
+Query Executed Successfully
+train fare
+pune bhopal 11078
+Query Executed Successfully
+traiin fare
+bhopal pune 11077
+Query Executed Successfully
+train fare
+bhopal pune 11078
+Query Executed Successfully
+trains between bhopal and pune
+Query Executed Successfully
+train fare
+pune bhopal 11078
+Query Executed Successfully
+train fare
+bhopal pune 11078
+Query Executed Successfully
+train fare
+pune bhopal 11077
+Query Executed Successfully
+train fare
+bhopal pune 11078
+Query Executed Successfully
+train fare
+pune bhopal 11078
+Query Executed Successfully
+train fare
+pune dadar 12124
+Query Executed Successfully

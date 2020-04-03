@@ -1,0 +1,703 @@
+<!-- <html>
+<head>
+<link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+<h1>IndiRailBot</h1>
+	<div>
+		<div id="chatbox">
+		<p class="botText"><span>Hi! I'm IndiRailbot.</span></p>
+	</div>
+	<div id="userInput">
+		<input id="textbox" type="text" name="msg" placeholder="Message">
+		<input id="buttonInput" type="submit" value="Send">
+	</div>
+	<script>
+		function getBotResponse() {
+			var rawText = $("#textbox").val();
+			var userHtml = '<p class="userText"><span>' + rawText + '</span></p>';
+			$("#textbox").val("");
+			$("#chatbox").append(userHtml);
+			document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+			$.get("/bot", { msg: rawText }).done(function(data) {
+			var botHtml = '<p class="botText"><span>' + data + '</span></p>';
+			$("#chatbox").append(botHtml);
+			document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+			});
+	    }
+		
+		$("#textbox").keypress(function(e) {
+			if(e.which == 13) {
+			getBotResponse();
+			}
+		});
+
+		$("#buttonInput").click(function() {
+			getBotResponse();
+		})
+	</script>
+	
+
+</div>
+</body>
+</html> -->
+<html>
+<head>
+<link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<style type="text/css">
+#chatbox
+{
+background-color: black; 
+margin-left: auto;
+margin-right: auto;
+width: 40%;
+margin-top: 60px;
+}
+
+#textbox {
+    margin: 30px 0;
+}
+ 
+@media (max-width: 768px) {
+  .mycontainer {
+    width: 85vw;
+    max-width: 85vw;
+  }
+ 
+    button {
+        margin-bottom: 10px;
+}
+}
+
+body
+{
+font-family: Garamond;
+background-color: black;
+}
+h1
+{
+color: black;
+margin-bottom: 0;
+margin-top: 0;
+text-align: center;
+font-size: 40px;
+}
+h3
+{
+color: black;
+font-size: 20px;
+margin-top: 3px;
+text-align: center;
+}
+#chatbox
+{
+background-color: white; 
+margin-left: auto;
+margin-right: auto;
+width: 95%;
+margin-top: 100px;
+
+}
+#chatbot
+{
+background-color: white; 
+margin-left: auto;
+margin-right: auto;
+width: 40%;
+margin-top: 60px;
+border-radius: 5px;
+}
+#userInput {
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+margin-top: 60px;
+border-color: black;
+border-width: 1px;
+}
+#textbox {
+width: 75%;
+margin-left: 4%;
+border: none;
+border: 2px solid #009688;
+border-radius: 3px;
+height: 40px;
+font-family: monospace;
+font-size: 14px;
+}
+
+#buttonInput {
+padding: 3px;
+font-family: monospace;
+margin-top: 20px;
+background-color: #4CAF50; /* Green */
+border: none;
+color: white;
+padding: 10px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 5px;
+}
+
+
+.userText {
+color: white;
+font-family: monospace;
+font-size: 14px;
+text-align: right;
+line-height: 30px;
+}
+
+.userText span {
+background-color: #009688;
+padding: 10px;
+border-radius: 5px;
+}
+
+.botText {
+color: white;
+font-family: monospace;
+font-size: 14px;
+text-align: left;
+line-height: 30px;
+padding-top: 2%;
+width: 70%;
+margin-left: 2%;
+}
+.botText span {
+background-color: #EF5350;
+padding: 10px;
+border-radius: 3px;
+padding-top: 2%;
+margin-top: 5%;
+
+}
+
+/*
+#tidbit {
+position:absolute;
+bottom:0;
+right:0;
+width: 300px;
+}*/
+</style>
+</head>
+
+
+<body>
+<h1>IndiRailBot</h1>
+	<div id = "chatbot">
+		<div id="chatbox">
+		<p class="botText"><span>Hi! Type help or Options to know more.</span></p>
+		</div>
+	
+	<div id="userInput">
+		<input id="textbox" type="text" name="msg" placeholder="Type here">
+        <button id="start-btn" type="submit" title="Start" class="fa fa-microphone" style="font-size:20px;color:red;background-color: #4CAF50; /*Green*/border: none;color: white;padding: 8px 10px 11px 10px; border-radius: 5px;"></button>
+        <button id="buttonInput" type="submit" value="Send" onclick="stopfunc()" > Send </button>        
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="{{ url_for('static', filename='newscript.js')}}"></script>
+	<script>
+		function stopfunc()
+		{
+		    Content = "";
+		    recognition.abort();
+		};
+		 
+		 function getBotResponse() {
+			var rawText = $("#textbox").val();
+			var userHtml = '<p class="userText"><span>' + rawText + '</span></p>';
+			$("#textbox").val("");
+			$("#chatbox").append(userHtml);
+
+
+			document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+			$.get("/bot", { msg: rawText }).done(function(data) {
+			var result = data;
+			var ans = result["debit"];
+			var debit = ans	
+			if(ans==0)	
+				// var response_code = result["response_code"]
+
+				// if(response_code==200)
+				// {		
+				// var myList = result["route"];
+				// var station =[];
+				// var sch_arr= [];
+				// var sch_dep= [];			
+				// var days= [];
+				// var index = [];	
+				// for(var i=0; i<myList[myList.length-1]["no"];i++)
+				// {
+				// 		myList[i]["station"] = myList[i]["station"]["name"];
+
+				// }
+				// for(var i=0; i<myList[myList.length-1]["no"];i++)
+				// {
+				// 		station.push(myList[i]["station"]);
+				// 		sch_arr.push(myList[i]["scharr"]);
+				// 		sch_dep.push(myList[i]["schdep"]);			
+				// 		days.push(myList[i]["day"]);
+				// 		index.push(myList[i]["no"]);
+
+				// }	
+				// var heads ='<p class="botText"><span>Sr No | Station | Schd Arvl | Schd Dept | Day </span></p>';
+				// $("#chatbox").append(heads)
+				// for(var i=0; i<index.length;i++){
+				// var botHtml = '<p class="botText"><span>'+index[i]+' | '+station[i]+' | '+ sch_arr[i]+' | ' +sch_dep[i]+' | '+days[i] + '</span></p>';
+				// $("#chatbox").append(botHtml);	
+				// 	}
+				// }
+
+				
+				// else{
+				// 		if (response_code == 230) 
+				// 		 	{
+				// 		 		var botHtml =  '<p class="botText"><span> Date chosen for the query is not valid for the chosen parameters </span></p>';
+				// 		 		$("#chatbox").append(botHtml);
+				// 		 	}
+				// 		else if (response_code == 404)
+				// 		 	{
+				// 		 		var botHtml = '<p class="botText"><span>No data available. Please enter correct train number</span></p>';
+				// 		 		$("#chatbox").append(botHtml);
+				// 		 	}
+				// 		else if (response_code == 405)
+				// 		 	{
+				// 		 		var botHtml = '<p class="botText"><span>Data couldn’t be loaded on our servers. Request couldn’t go through.</span></p>';
+				// 		 		$("#chatbox").append(botHtml);
+				// 		 	}
+				// 		else if (response_code == 500 || response_code == 501) 
+				// 			{	
+				// 		 		var botHtml = '<p class="botText"><span>Unauthorized API Key. Please contact service provider</span></p>';
+				// 		 		$("#chatbox").append(botHtml);
+				// 			} 
+				// 		else if (response_code == 502)
+				// 			{
+				// 				var botHtml = '<p class="botText"><span>Please enter train number.</span></p>';
+				// 				$("#chatbox").append(botHtml);
+				// 			}
+				// 		else if (response_code == 503)
+				// 			{
+				// 				var botHtml = '<p class="botText"><span>External server error.</span></p>';
+				// 				$("#chatbox").append(botHtml);
+				// 			}			
+				// 	}	
+			{
+				var response_code = result["response_code"]
+				if(response_code==200)
+				{	
+					var html = result["html"]
+					var botHtml = '<div style="background-color: #EF5350; color: white; font-family: monospace;"> '+html+'</div>'
+					$("#chatbox").append(botHtml);	
+				}
+				
+				
+				
+				else{
+						if (response_code == 230) 
+						 	{
+						 		var botHtml =  '<p class="botText"><span>Date chosen for the query is not valid for the chosen parameters </span></p>';
+						 		$("#chatbox").append(botHtml);
+						 	}
+						else if (response_code == 404)
+						 	{
+						 		var botHtml = '<p class="botText"><span>No data available. Please enter correct train number</span></p>';
+						 		$("#chatbox").append(botHtml);
+						 	}
+						else if (response_code == 405)
+						 	{
+						 		var botHtml = '<p class="botText"><span>Data couldn’t be loaded on our servers. Request couldn’t go through.</span></p>';
+						 		$("#chatbox").append(botHtml);
+						 	}
+						else if (response_code == 500 || response_code == 501) 
+							{	
+						 		var botHtml = '<p class="botText"><span>Unauthorized API Key. Please contact service provider</span></p>';
+						 		$("#chatbox").append(botHtml);
+							} 
+						else if (response_code == 502)
+							{
+								var botHtml = '<p class="botText"><span>Please enter the train number.</span></p>';
+								$("#chatbox").append(botHtml);
+							}
+						else if (response_code == 503)
+							{
+								var botHtml = '<p class="botText"><span>External server error.</span></p>';
+								$("#chatbox").append(botHtml);
+							}
+					}
+				}
+			
+
+
+			else if(ans==1)
+			{
+
+				var response_code = result["response_code"]	
+				if(response_code==200)
+				{	
+					var html = result["html"]
+					var botHtml = '<div style="background-color: #EF5350; font-color: white; font-family: monospace;"> '+html+'</div>'
+					$("#chatbox").append(botHtml);	
+				}
+				
+				
+				
+				else{
+						if (response_code == 230) 
+						 	{
+						 		var botHtml =  '<p class="botText"><span>Date chosen for the query is not valid for the chosen parameters </span></p>';
+						 		$("#chatbox").append(botHtml);
+						 	}
+						else if (response_code == 404)
+						 	{
+						 		var botHtml = '<p class="botText"><span>No data available. Please enter correct train number</span></p>';
+						 		$("#chatbox").append(botHtml);
+						 	}
+						else if (response_code == 405)
+						 	{
+						 		var botHtml = '<p class="botText"><span>Data couldn’t be loaded on our servers. Request couldn’t go through.</span></p>';
+						 		$("#chatbox").append(botHtml);
+						 	}
+						else if (response_code == 500 || response_code == 501) 
+							{	
+						 		var botHtml = '<p class="botText"><span>Unauthorized API Key. Please contact service provider</span></p>';
+						 		$("#chatbox").append(botHtml);
+							} 
+						else if (response_code == 502)
+							{
+								var botHtml = '<p class="botText"><span>Please enter the 10 digit PNR number.</span></p>';
+								$("#chatbox").append(botHtml);
+							}
+						else if (response_code == 503)
+							{
+								var botHtml = '<p class="botText"><span>External server error.</span></p>';
+								$("#chatbox").append(botHtml);
+							}		
+					}	
+			}
+
+			else if(ans==2)
+			{
+				var response_code = result["response_code"];
+				if(response_code==200)
+				{	
+					var html = result["html"]
+					var botHtml = '<div style="background-color: #EF5350; font-color: white; font-family: monospace;"> '+html+'</div>'
+					$("#chatbox").append(botHtml);	
+				}
+				
+				
+				
+				else{
+						if (response_code == 230) 
+						 	{
+						 		var botHtml =  '<p class="botText"><span> Date chosen for the query is not valid for the chosen parameters </span></p>';
+						 		$("#chatbox").append(botHtml);
+						 	}
+						else if (response_code == 404)
+						 	{
+						 		var botHtml = '<p class="botText"><span>No data available. Please enter correct train number</span></p>';
+						 		$("#chatbox").append(botHtml);
+						 	}
+						else if (response_code == 405)
+						 	{
+						 		var botHtml = '<p class="botText"><span>Data couldn’t be loaded on our servers. Request couldn’t go through.</span></p>';
+						 		$("#chatbox").append(botHtml);
+						 	}
+						else if (response_code == 500 || response_code == 501) 
+							{	
+						 		var botHtml = '<p class="botText"><span>Unauthorized API Key. Please contact service provider</span></p>';
+						 		$("#chatbox").append(botHtml);
+							} 
+						else if (response_code == 502)
+							{
+								var botHtml = '<p class="botText"><span>Please enter station name and train number.</span></p>';
+								$("#chatbox").append(botHtml);
+							}
+						else if (response_code == 503)
+							{
+								var botHtml = '<p class="botText"><span>External server error.</span></p>';
+								$("#chatbox").append(botHtml);
+							}		
+					}
+
+			// 	var response_code = result["response_code"];
+
+			// 	if(response_code == 200)
+			// 	{
+			// 		var position=result["position"];
+			// 		var sch_arrs=result["status"]["scharr"];
+			// 		var sch_deps=result["status"]["schdep"];
+			// 		var act_arrs=result["status"]["actarr"];
+			// 		var act_deps=result["status"]["actdep"];
+			// 		var late_min=result["status"]["latemin"];
+					
+			// 		var botHtml = '<p class="botText"><span>Position:'+position+'<br>Scheduled Arrival/Departure : '+sch_arrs+'/'+sch_deps +'<br>Actual Arrival/Departure : '+ act_arrs+'/'+act_deps+'<br>Late by :'+late_min+'mins</span></p>';
+			// 		$("#chatbox").append(botHtml);
+
+
+			// 	}
+			// 	else{
+
+			// 	if (response_code == 230) 
+			// 			 	{
+			// 			 		var botHtml =  '<p class="botText"><span> Date chosen for the query is not valid for the chosen parameters </span></p>';
+			// 			 		$("#chatbox").append(botHtml);
+			// 			 	}
+			// 	else if (response_code == 404)
+			// 			 	{
+			// 			 		var botHtml = '<p class="botText"><span>No data available. Please enter correct train number</span></p>';
+			// 			 		$("#chatbox").append(botHtml);
+			// 			 	}
+			// 	else if (response_code == 405)
+			// 			 	{
+			// 			 		var botHtml = '<p class="botText"><span>Data couldn’t be loaded on our servers. Request couldn’t go through.</span></p>';
+			// 			 		$("#chatbox").append(botHtml);
+			// 			 	}
+			// 	else if (response_code == 500 || response_code == 501) 
+			// 				{	
+			// 			 		var botHtml = '<p class="botText"><span>Unauthorized API Key. Please contact service provider</span></p>';
+			// 			 		$("#chatbox").append(botHtml);
+			// 				} 
+			// 	else if (response_code == 502)
+			// 				{
+			// 					var botHtml = '<p class="botText"><span>Please enter station name and train number.</span></p>';
+			// 					$("#chatbox").append(botHtml);
+			// 				}
+			// 	else if (response_code == 503)
+			// 				{
+			// 					var botHtml = '<p class="botText"><span>External server error.</span></p>';
+			// 					$("#chatbox").append(botHtml);
+			// 				}			
+			// }
+		}
+			else if(ans==3)
+			{
+
+				// var response_code = result["response_code"]
+
+				// if(response_code==200)
+				// {	
+				// var myList = result["trains"];	
+				// var train_name = [];
+				// var train_num =[];
+				// var src_dep =[];
+				// var dest_arr = [];
+				// var days = [];
+				// var travel_time = [];
+				// var index = [];
+				// var days = [];
+				// var day = [];
+
+				
+				// for(var i=0; i<result["total"];i++)
+				// {
+				// 		index.push(i);
+				// 		train_num.push(myList[i]["number"]);
+				// 		train_name.push(myList[i]["name"]);
+				// 		src_dep.push(myList[i]["src_departure_time"]);
+				// 		dest_arr.push(myList[i]["dest_arrival_time"]);
+				// 		for(var j=0; j<7;j++)
+				// 		{
+				// 			if(myList[i]["days"][j]['runs']=="Y"){
+				// 				day.push(myList[i]["days"][j]['code']);
+				// 			}
+									
+				
+				// 		}
+				// 		days.push(day);
+				// 		day=[];
+				// }
+
+				// var heads ='<p class="botText"><span>Sr No|Train No.|Src Dept|Dest Arv|Days</span></p>';
+				// $("#chatbox").append(heads);
+				// for(var i=0; i<result["total"];i++){
+				// var botHtml = '<p class="botText"><span>'+index[i]+'|'+train_num[i]+'|'+train_name[i]+'|'+src_dep[i]+'|'+dest_arr[i]+'|'+days[i]+'</span></p>';
+				// $("#chatbox").append(botHtml);	
+				// 	}
+				// }
+				
+				
+				// else{
+				// 		if (response_code == 230) 
+				// 		 	{
+				// 		 		var botHtml =  '<p class="botText"><span> Date chosen for the query is not valid for the chosen parameters </span></p>';
+				// 		 		$("#chatbox").append(botHtml);
+				// 		 	}
+				// 		else if (response_code == 404)
+				// 		 	{
+				// 		 		var botHtml = '<p class="botText"><span>No data available. Please enter correct train number</span></p>';
+				// 		 		$("#chatbox").append(botHtml);
+				// 		 	}
+				// 		else if (response_code == 405)
+				// 		 	{
+				// 		 		var botHtml = '<p class="botText"><span>Data couldn’t be loaded on our servers. Request couldn’t go through.</span></p>';
+				// 		 		$("#chatbox").append(botHtml);
+				// 		 	}
+				// 		else if (response_code == 500 || response_code == 501) 
+				// 			{	
+				// 		 		var botHtml = '<p class="botText"><span>Unauthorized API Key. Please contact service provider</span></p>';
+				// 		 		$("#chatbox").append(botHtml);
+				// 			} 
+				// 		else if (response_code == 502)
+				// 			{
+				// 				var botHtml = '<p class="botText"><span>Please enter the station names.</span></p>';
+				// 				$("#chatbox").append(botHtml);
+				// 			}
+				// 		else if (response_code == 503)
+				// 			{
+				// 				var botHtml = '<p class="botText"><span>External server error.</span></p>';
+				// 				$("#chatbox").append(botHtml);
+				// 			}		
+				// 	}
+				var response_code = result["response_code"];
+				if(response_code==200)
+				{	
+					var html = result["html"]
+					var botHtml = '<div style="background-color: #EF5350; font-color: white; font-family: monospace;"> '+html+'</div>'
+					$("#chatbox").append(botHtml);	
+				}
+				
+				
+				
+				else{
+						if (response_code == 230) 
+						 	{
+						 		var botHtml =  '<p class="botText"><span> Date chosen for the query is not valid for the chosen parameters </span></p>';
+						 		$("#chatbox").append(botHtml);
+						 	}
+						else if (response_code == 404)
+						 	{
+						 		var botHtml = '<p class="botText"><span>No data available. Please enter correct train number</span></p>';
+						 		$("#chatbox").append(botHtml);
+						 	}
+						else if (response_code == 405)
+						 	{
+						 		var botHtml = '<p class="botText"><span>Data couldn’t be loaded on our servers. Request couldn’t go through.</span></p>';
+						 		$("#chatbox").append(botHtml);
+						 	}
+						else if (response_code == 500 || response_code == 501) 
+							{	
+						 		var botHtml = '<p class="botText"><span>Unauthorized API Key. Please contact service provider</span></p>';
+						 		$("#chatbox").append(botHtml);
+							} 
+						else if (response_code == 502)
+							{
+								var botHtml = '<p class="botText"><span>Please enter the source and destination station.</span></p>';
+								$("#chatbox").append(botHtml);
+							}
+						else if (response_code == 503)
+							{
+								var botHtml = '<p class="botText"><span>External server error.</span></p>';
+								$("#chatbox").append(botHtml);
+							}		
+					}	
+			}
+			else if(ans==4)
+			{
+
+				var response_code = result["response_code"];
+				$("#chatbox").append(response_code);
+
+				if(response_code==200)
+				{	
+				var myList = result["trains"];	
+				var train_name = [];
+				var train_num =[];
+				var sch_arr = []
+				var sch_dep =[];
+				var act_arr = []
+				var act_dep =[];
+				var late_by = [];
+				var index = [];
+				
+				
+				for(var i=0; i<result["total"];i++)
+				{
+						index.push(i);
+						train_num.push(myList[i]["number"]);
+						train_name.push(myList[i]["name"]);
+						sch_arr.push(myList[i]["scharr"])
+						sch_dep.push(myList[i]["schdep"]);
+						act_arr.push(myList[i]["actarr"]);
+						act_dep.push(myList[i]["actdep"]);
+						late_by.push(myList[i]["delaydep"]);
+						
+				}
+
+				var heads ='<p class="botText"><span>Sr No|Train No.|Train name|Actual Arvl/Dept|Scheduled Arv/Dept|Late by</span></p>';
+				$("#chatbox").append(heads);
+				for(var i=0; i<result["total"];i++){
+				var botHtml = '<p class="botText"><span>'+index[i]+'|'+train_num[i]+'|'+train_name[i]+'|'+act_arr[i]+'/'+act_dep[i]+'|'+sch_arr[i]+'/'+sch_dep[i]+'|'+late_by[i]+'</span></p>';
+				$("#chatbox").append(botHtml);	
+					}
+				}
+				
+				
+				else{
+						if (response_code == 230) 
+						 	{
+						 		var botHtml =  '<p class="botText"><span> Date chosen for the query is not valid for the chosen parameters </span></p>';
+						 		$("#chatbox").append(botHtml);
+						 	}
+						else if (response_code == 404)
+						 	{
+						 		var botHtml = '<p class="botText"><span>No data available. Please enter correct train number</span></p>';
+						 		$("#chatbox").append(botHtml);
+						 	}
+						else if (response_code == 405)
+						 	{
+						 		var botHtml = '<p class="botText"><span>Data couldn’t be loaded on our servers. Request couldn’t go through.</span></p>';
+						 		$("#chatbox").append(botHtml);
+						 	}
+						else if (response_code == 500 || response_code == 501) 
+							{	
+						 		var botHtml = '<p class="botText"><span>Unauthorized API Key. Please contact service provider</span></p>';
+						 		$("#chatbox").append(botHtml);
+							} 
+						else if (response_code == 502)
+							{
+								var botHtml = '<p class="botText"><span>Please enter the station name.</span></p>';
+								$("#chatbox").append(botHtml);
+							}
+							else if (response_code == 503)
+							{
+								var botHtml = '<p class="botText"><span>External server error.</span></p>';
+								$("#chatbox").append(botHtml);
+							}		
+					}	
+			}
+			else{
+				var reply = result["bot_reply"]
+				var botHtml = '<p class="botText"><span>' + reply + '</span></p>';
+				$("#chatbox").append(botHtml);
+
+			}
+			document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+			});
+	    }
+		
+		$("#textbox").keypress(function(e) {
+			if(e.which == 13) {
+			getBotResponse();
+			}
+		});
+
+		$("#buttonInput").click(function() {
+			getBotResponse();
+		})
+
+
+</script>
+	
+
+</div>
+</body>
+</html>

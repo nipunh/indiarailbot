@@ -1,0 +1,313 @@
+categories:
+- greetings
+conversations:
+- - Hello
+  - Hi, I'm IndiRailBot, How can I help you?
+- - Hi
+  - Hello, I'm IndiRailBot, How can I help you?
+- - Greetings!
+  - Hello, I'm IndiRailBot, How can I help you?
+- - Hello
+  - Greetings! I'm IndiRailBot, How can I help you?
+- - Hi, How is it going?
+  - Good
+- - Hi, How is it going?
+  - Fine
+- - Hi, How is it going?
+  - Okay
+- - Hi, How is it going?
+  - Great
+- - Hi, How is it going?
+  - Could be better.
+- - Hi, How is it going?
+  - Not so great.
+- - Option
+  - Type following queries with relevant details. Train route[Include train number], Train running status[Include train number and station], Train between stations[Include source and destination station code], Station codes[Include station name]
+- - Option
+  - Type following queries with relevant details. Train route[Include train number], Train running status[Include train number and station], Train between stations[Include source and destination station code], Station codes[Include station name]
+- - Options
+  - Type following queries with relevant details. Train route[Include train number], Train running status[Include train number and station], Train between stations[Include source and destination station code], Station codes[Include station name]
+- - Options
+  - Type following queries with relevant details. Train route[Include train number], Train running status[Include train number and station], Train between stations[Include source and destination station code], Station codes[Include station name]
+- - Help
+  - Please type option to check the features.
+- - Help
+  - Please type option to check the features.
+- -IRCTC
+  -Indian Railway Catering and Tourism Corporation is a subsidiary of the Indian Railways that handles the catering, tourism and online ticketing operations.
+- -Ticket booking
+  -https://www.irctc.co.in/nget/train-search
+- -Book ticket
+  -https://www.irctc.co.in/nget/train-search
+- -Book train ticket
+  -https://www.irctc.co.in/nget/train-search
+- -Train ticket booking
+  -https://www.irctc.co.in/nget/train-search
+- -PNR status
+  -Please visit the following link- https://www.irctc.co.in/nget/enquiry/pnr-enquiry
+- -PNR enquiry
+  -Please visit the following link- https://www.irctc.co.in/nget/enquiry/pnr-enquiry
+- -IRCTC
+  -Indian Railway Catering and Tourism Corporation is a subsidiary of the Indian Railways that handles the catering, tourism and online ticketing operations.
+- -IRCTC
+  -Indian Railway Catering and Tourism Corporation is a subsidiary of the Indian Railways that handles the catering, tourism and online ticketing operations.
+- -IRCTC
+  -Indian Railway Catering and Tourism Corporation is a subsidiary of the Indian Railways that handles the catering, tourism and online ticketing operations.    
+- -Ticket booking
+  -https://www.irctc.co.in/nget/train-search
+- -Book ticket
+  -https://www.irctc.co.in/nget/train-search
+- -Book train ticket
+  -https://www.irctc.co.in/nget/train-search
+- -Train ticket booking
+  -https://www.irctc.co.in/nget/train-search
+- -PNR status
+  -Please visit the following link- https://www.irctc.co.in/nget/enquiry/pnr-enquiry
+- -PNR enquiry
+  -Please visit the following link- https://www.irctc.co.in/nget/enquiry/pnr-enquiry                
+- - How are you doing?
+  - Good.
+- - How are you doing?
+  - Very well, thanks.
+- - How are you doing?
+  - Fine, and you?
+- - Nice to meet you.
+  - Thank you.
+- - How do you do?
+  - I'm doing well.
+- - How do you do?
+  - I'm doing well. How are you?
+- - Hi, nice to meet you.
+  - Thank you. You too.
+- - It is a pleasure to meet you.
+  - Thank you. You too.
+- - Top of the morning to you!
+  - Thank you kindly.
+- - Top of the morning to you!
+  - And the rest of the day to you.
+- - What's up?
+  - Not much.
+- - What's up?
+  - Not too much.
+- - What's up?
+  - Not much, how about you?
+- - What's up?
+  - Nothing much.
+- - What's up?
+  - The sky's up but I'm fine thanks. What about you?
+- - What is your name?
+  - I'm IndiRailBot.
+- - Who are you?
+  - I'm IndiRailBot.
+- - Who created you?
+  - Bunch of nerds.
+- - Where are you?
+  - Everywhere.
+- - Hello
+  - Hi, I'm IndiRailBot, How can I help you?
+- - Hi
+  - Hello, I'm IndiRailBot, How can I help you?
+- - Greetings!
+  - Hello, I'm IndiRailBot, How can I help you?
+- - Hello
+  - Greetings! I'm IndiRailBot, How can I help you?
+- - Hi, How is it going?
+  - Good
+- - Hi, How is it going?
+  - Fine
+- - Hi, How is it going?
+  - Okay
+- - Hi, How is it going?
+  - Great
+- - Hi, How is it going?
+  - Could be better.
+- - Hi, How is it going?
+  - Not so great.
+- - Option
+  - Type following queries with relevant details. Train route[Include train number], Train running status[Include train number and station], Train between stations[Include source and destination station code], Station codes[Include station name]
+- - Option
+  - Type following queries with relevant details. Train route[Include train number], Train running status[Include train number and station], Train between stations[Include source and destination station code], Station codes[Include station name]
+- - Options
+  - Type following queries with relevant details. Train route[Include train number], Train running status[Include train number and station], Train between stations[Include source and destination station code], Station codes[Include station name]
+- - Options
+  - Type following queries with relevant details. Train route[Include train number], Train running status[Include train number and station], Train between stations[Include source and destination station code], Station codes[Include station name]
+- - Help
+  - Please type option to check the features.
+- - Help
+  - Please type option to check the features.
+- -IRCTC
+  -Indian Railway Catering and Tourism Corporation is a subsidiary of the Indian Railways that handles the catering, tourism and online ticketing operations.
+- -Ticket booking
+  -https://www.irctc.co.in/nget/train-search
+- -Book ticket
+  -https://www.irctc.co.in/nget/train-search
+- -Book train ticket
+  -https://www.irctc.co.in/nget/train-search
+- -Train ticket booking
+  -https://www.irctc.co.in/nget/train-search
+- -PNR status
+  -Please visit the following link- https://www.irctc.co.in/nget/enquiry/pnr-enquiry
+- -PNR enquiry
+  -Please visit the following link- https://www.irctc.co.in/nget/enquiry/pnr-enquiry
+- -IRCTC
+  -Indian Railway Catering and Tourism Corporation is a subsidiary of the Indian Railways that handles the catering, tourism and online ticketing operations.
+- -IRCTC
+  -Indian Railway Catering and Tourism Corporation is a subsidiary of the Indian Railways that handles the catering, tourism and online ticketing operations.
+- -IRCTC
+  -Indian Railway Catering and Tourism Corporation is a subsidiary of the Indian Railways that handles the catering, tourism and online ticketing operations.    
+- -Ticket booking
+  -https://www.irctc.co.in/nget/train-search
+- -Book ticket
+  -https://www.irctc.co.in/nget/train-search
+- -Book train ticket
+  -https://www.irctc.co.in/nget/train-search
+- -Train ticket booking
+  -https://www.irctc.co.in/nget/train-search
+- -PNR status
+  -Please visit the following link- https://www.irctc.co.in/nget/enquiry/pnr-enquiry
+- -PNR enquiry
+  -Please visit the following link- https://www.irctc.co.in/nget/enquiry/pnr-enquiry                
+- - How are you doing?
+  - Good.
+- - How are you doing?
+  - Very well, thanks.
+- - How are you doing?
+  - Fine, and you?
+- - Nice to meet you.
+  - Thank you.
+- - How do you do?
+  - I'm doing well.
+- - How do you do?
+  - I'm doing well. How are you?
+- - Hi, nice to meet you.
+  - Thank you. You too.
+- - It is a pleasure to meet you.
+  - Thank you. You too.
+- - Top of the morning to you!
+  - Thank you kindly.
+- - Top of the morning to you!
+  - And the rest of the day to you.
+- - What's up?
+  - Not much.
+- - What's up?
+  - Not too much.
+- - What's up?
+  - Not much, how about you?
+- - What's up?
+  - Nothing much.
+- - What's up?
+  - The sky's up but I'm fine thanks. What about you?
+- - What is your name?
+  - I'm IndiRailBot.
+- - Who are you?
+  - I'm IndiRailBot.
+- - Who created you?
+  - Bunch of nerds.
+- - Where are you?
+  - Everywhere.
+- - Hello
+  - Hi, I'm IndiRailBot, How can I help you?
+- - Hi
+  - Hello, I'm IndiRailBot, How can I help you?
+- - Greetings!
+  - Hello, I'm IndiRailBot, How can I help you?
+- - Hello
+  - Greetings! I'm IndiRailBot, How can I help you?
+- - Hi, How is it going?
+  - Good
+- - Hi, How is it going?
+  - Fine
+- - Hi, How is it going?
+  - Okay
+- - Hi, How is it going?
+  - Great
+- - Hi, How is it going?
+  - Could be better.
+- - Hi, How is it going?
+  - Not so great.
+- - option
+  - Type following queries with relevant details. Train route[Include train number], Train running status[Include train number and station], Train between stations[Include source and destination station code], Station codes[Include station name]
+- - option
+  - Type following queries with relevant details. Train route[Include train number], Train running status[Include train number and station], Train between stations[Include source and destination station code], Station codes[Include station name]
+- - options
+  - Type following queries with relevant details. Train route[Include train number], Train running status[Include train number and station], Train between stations[Include source and destination station code], Station codes[Include station name]
+- - options
+  - Type following queries with relevant details. Train route[Include train number], Train running status[Include train number and station], Train between stations[Include source and destination station code], Station codes[Include station name]
+- - help
+  - Please type option to check the features.
+- - help
+  - Please type option to check the features.
+- -irctc
+  -Indian Railway Catering and Tourism Corporation is a subsidiary of the Indian Railways that handles the catering, tourism and online ticketing operations.
+- -ticket booking
+  -https://www.irctc.co.in/nget/train-search
+- -book ticket
+  -https://www.irctc.co.in/nget/train-search
+- -book train ticket
+  -https://www.irctc.co.in/nget/train-search
+- -train ticket booking
+  -https://www.irctc.co.in/nget/train-search
+- -pnr status
+  -Please visit the following link- https://www.irctc.co.in/nget/enquiry/pnr-enquiry
+- -pnr
+  -Please visit the following link- https://www.irctc.co.in/nget/enquiry/pnr-enquiry 
+- -pnr
+  -Please visit the following link- https://www.irctc.co.in/nget/enquiry/pnr-enquiry   
+- -pnr enquiry
+  -Please visit the following link- https://www.irctc.co.in/nget/enquiry/pnr-enquiry
+- -IRCTC
+  -Indian Railway Catering and Tourism Corporation is a subsidiary of the Indian Railways that handles the catering, tourism and online ticketing operations.
+- -IRCTC
+  -Indian Railway Catering and Tourism Corporation is a subsidiary of the Indian Railways that handles the catering, tourism and online ticketing operations.
+- -IRCTC
+  -Indian Railway Catering and Tourism Corporation is a subsidiary of the Indian Railways that handles the catering, tourism and online ticketing operations.    
+- -Ticket booking
+  -https://www.irctc.co.in/nget/train-search
+- -Book ticket
+  -https://www.irctc.co.in/nget/train-search
+- -Book train ticket
+  -https://www.irctc.co.in/nget/train-search
+- -Train ticket booking
+  -https://www.irctc.co.in/nget/train-search
+- -PNR status
+  -Please visit the following link- https://www.irctc.co.in/nget/enquiry/pnr-enquiry
+- -PNR enquiry
+  -Please visit the following link- https://www.irctc.co.in/nget/enquiry/pnr-enquiry                
+- - How are you doing?
+  - Good.
+- - How are you doing?
+  - Very well, thanks.
+- - How are you doing?
+  - Fine, and you?
+- - Nice to meet you.
+  - Thank you.
+- - How do you do?
+  - I'm doing well.
+- - How do you do?
+  - I'm doing well. How are you?
+- - Hi, nice to meet you.
+  - Thank you. You too.
+- - It is a pleasure to meet you.
+  - Thank you. You too.
+- - Top of the morning to you!
+  - Thank you kindly.
+- - Top of the morning to you!
+  - And the rest of the day to you.
+- - What's up?
+  - Not much.
+- - What's up?
+  - Not too much.
+- - What's up?
+  - Not much, how about you?
+- - What's up?
+  - Nothing much.
+- - What's up?
+  - The sky's up but I'm fine thanks. What about you?
+- - What is your name?
+  - I'm IndiRailBot.
+- - Who are you?
+  - I'm IndiRailBot.
+- - Who created you?
+  - Bunch of nerds.
+- - Where are you?
+  - Everywhere.    
