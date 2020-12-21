@@ -32,10 +32,10 @@ from flask import Flask, render_template, request, redirect, url_for
 from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
 import logging
-from flask import Flask, render_template, request, redirect, url_for
-from chatterbot import ChatBot
-from chatterbot.trainers import ChatterBotCorpusTrainer
-import logging
+# from flask import Flask, render_template, request, redirect, url_for
+# from chatterbot import ChatBot
+# from chatterbot.trainers import ChatterBotCorpusTrainer
+# import logging
 import requests 
 import json 
 from nltk.tokenize import word_tokenize
@@ -64,8 +64,9 @@ date = datetime.now().strftime('%d-%m-%Y')
 train_number = -1
 maxpos =-1
 
-application = Flask(__name__)
-BotV1 = ChatBot("BotV1", storage_adapter="chatterbot.storage.SQLStorageAdapter",
+app = Flask(__name__)
+BotV1 = ChatBot("BotV1", 
+# storage_adapter="chatterbot.storage.SQLStorageAdapter",
 	)
 trainer = ChatterBotCorpusTrainer(BotV1)
 trainer.train(

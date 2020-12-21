@@ -543,4 +543,5 @@ stop_words = ['i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you'
 'weren', "weren't", 'won', "won't", 'wouldn', "wouldn't"]
 
 if __name__ == '__main__':
-	application.run(debug=True)
+	application.run(debug=True, port = 5000)
+
